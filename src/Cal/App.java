@@ -9,7 +9,6 @@ public class App {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-
         while (true) {
             try {
                 System.out.println("1.사칙연산, 2.원의 넓이");
